@@ -16,7 +16,7 @@ public class DatosPersonales {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Persona allan = new Persona("Allan", "Miranda", "04155230-9",28,"18/09/1989");
+        Persona allan = new Persona("Allan", "Miranda", "04855830-8",28,"18/09/1989");
         
         allan.mostrarInfo();
     }
